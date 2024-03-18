@@ -11,6 +11,7 @@ def employee():
         employee[name]=salary
     if not employees:
         print("No employees provided")
+        print("no employees")
         return
     
     maxi = max(employees.values())
