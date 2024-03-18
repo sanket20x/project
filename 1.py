@@ -1,4 +1,4 @@
-a# Sample dictionary
+# Sample dictionary
 my_dict = {'apple': 5, 'banana': 2, 'orange': 8, 'grape': 3}
 
 # clear() - removes all items
